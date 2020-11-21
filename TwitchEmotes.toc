@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: TwitchEmotes
+## Author: Ren, Buds
+## Version: v3
+## SavedVariables: TwitchEmoteDB
+## OptionalDeps: LibStub, LibUIDropDownMenu
+
+libs\load_libs.xml
+TwitchEmotes.lua
+#TwitchEmotes.xml
