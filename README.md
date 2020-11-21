@@ -13,4 +13,4 @@ Changes on this version:
 - Use LibDataBroker-1.1 for compatibility with broker addons
 - Use LibDBIcon-1.0 for minimap icon
 - Use AceConfig-3.0 for options
-- Use AceDB-3.0 for dbz 
+- Use AceDB-3.0 for db
